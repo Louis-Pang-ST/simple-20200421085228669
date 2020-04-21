@@ -4,4 +4,4 @@ applications:
   host: simple-website-4hjwkhf
   name: simple-website-4hjwkhf
   memory: 64M
-  stack: cflinuxfs2
+  command: node app.js
